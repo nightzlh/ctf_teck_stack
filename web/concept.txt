@@ -1,0 +1,4 @@
+sandbox
+	已经成为泛指"资源隔离类模块"
+xcc
+	跨站脚本攻击(Cross Site Script) 安全领域叫做XSS
